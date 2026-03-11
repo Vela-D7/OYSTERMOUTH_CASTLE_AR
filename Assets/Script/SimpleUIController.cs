@@ -1,12 +1,13 @@
 using UnityEngine;
 using UnityEngine.UI;
+using TMPro;
 
 public class SimpleUIController : MonoBehaviour
 {
     [Header("UI Elements")]
     public GameObject infoPanel;
     public Button infoButton;
-    public Text buttonText;
+    public TextMeshProUGUI buttonText;
 
     [Header("Settings")]
     public bool showOnStart = true;
