@@ -160,7 +160,3 @@ Swansea University
 This repository is part of an academic research project.
 
 Usage for educational purposes is permitted.
-
-
-
-# Unity Project Structure
