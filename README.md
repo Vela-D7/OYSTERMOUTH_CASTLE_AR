@@ -86,4 +86,81 @@ The other approaches were explored during development but were not used in the f
 
 ---
 
+Key components include:
+
+- AR camera system
+- User interface overlays
+- Spatial positioning logic
+- 3D angel and shield models
+
+---
+
+# User Evaluation
+
+User testing was conducted with **10 participants**.
+
+Participants were asked to:
+
+1. Wear the AR glasses  
+2. Observe the reconstructed elements  
+3. Complete a short usability questionnaire  
+
+The evaluation focused on:
+
+- usability
+- clarity of visualisation
+- perceived educational value
+
+---
+
+# Research Contribution
+
+This project demonstrates:
+
+- how AR can support **heritage storytelling**
+- how **UX principles influence AR interface design**
+- how wearable AR systems can be applied in **historic architecture environments**
+
+---
+
+# Repository Contents
+
+This repository contains:
+
+- Unity project files
+- AR prototype assets
+- scripts used for interaction
+- development documentation
+
+---
+
+---
+
+# Future Work
+
+Possible future development includes:
+
+- marker-based spatial anchoring
+- expanded historical reconstruction
+- additional AR content across the castle
+- deployment at other heritage sites
+
+---
+
+# Author
+
+Velmurugan Chokkanathan  
+MSc Virtual Reality  
+Swansea University  
+
+---
+
+# License
+
+This repository is part of an academic research project.
+
+Usage for educational purposes is permitted.
+
+
+
 # Unity Project Structure
