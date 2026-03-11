@@ -1026,7 +1026,7 @@ PrefabInstance:
       objectReference: {fileID: 2100000, guid: 6ab271ae1441e0544a377ebe22cc98fc, type: 2}
     - target: {fileID: 919132149155446097, guid: 933fabe341a9a7c4fb7d74660c84a847, type: 3}
       propertyPath: m_Name
-      value: Meshy_AI_Azure_Shield_with_a_G_0310021251_texture
+      value: Azure_Shield_with_a_G_0310021251_texture
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -1090,6 +1090,11 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3182b5074a6bf3d4887a44a38cbb9cb6, type: 3}
+--- !u!20 &694392834 stripped
+Camera:
+  m_CorrespondingSourceObject: {fileID: 9011500862288746601, guid: 3182b5074a6bf3d4887a44a38cbb9cb6, type: 3}
+  m_PrefabInstance: {fileID: 694392833}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &731141819
 GameObject:
   m_ObjectHideFlags: 0
@@ -1695,14 +1700,14 @@ Canvas:
   m_Enabled: 1
   serializedVersion: 3
   m_RenderMode: 2
-  m_Camera: {fileID: 0}
+  m_Camera: {fileID: 694392834}
   m_PlaneDistance: 100
   m_PixelPerfect: 0
   m_ReceivesEvents: 1
   m_OverrideSorting: 0
   m_OverridePixelPerfect: 0
   m_SortingBucketNormalizedSize: 0
-  m_VertexColorAlwaysGammaSpace: 0
+  m_VertexColorAlwaysGammaSpace: 1
   m_AdditionalShaderChannelsFlag: 25
   m_UpdateRectTransformForStandalone: 0
   m_SortingLayerID: 0
@@ -1910,7 +1915,7 @@ PrefabInstance:
       objectReference: {fileID: 2100000, guid: dbd3d1c0f6c3ca14fb6e8cbdb5ff30df, type: 2}
     - target: {fileID: 919132149155446097, guid: 79e0e4b49db4f444cbca0c94907b24f0, type: 3}
       propertyPath: m_Name
-      value: Meshy_AI_Azure_Lion_Rampant_wi_0310021811_texture
+      value: Azure_Lion_Rampant_wi_0310021811_texture
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -2243,7 +2248,7 @@ PrefabInstance:
       objectReference: {fileID: 2100000, guid: 406b7d8e0b4a2364b8c8a0584b16459e, type: 2}
     - target: {fileID: 919132149155446097, guid: 17f89dde4d1d10f42a1f8191098d0660, type: 3}
       propertyPath: m_Name
-      value: Meshy_AI_Two_Rainbow_Angels_0310014601_texture
+      value: Two_Rainbow_Angels_0310014601_texture
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
