@@ -2,7 +2,7 @@
 
 Augmented Reality heritage reconstruction project developed as part of the **MSc Virtual Reality dissertation at Swansea University**.
 
-This project explores how **Design Thinking and UI/UX principles can be applied to wearable Augmented Reality (AR)** systems to enhance interpretation of historic sites.
+This project explores how **Design Thinking and UI/UX principles can be applied to XREAL wearable Augmented Reality (AR)** systems to enhance interpretation of historic sites.
 
 The prototype focuses on **Oystermouth Castle Chapel (Swansea, Wales)** and reconstructs medieval wall painting fragments located in the **confession area**, including:
 
