@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<QCARInfo>
+    <TargetSet version="3.4">
+        <AreaTarget version="5.2" bbox="-5.6930 -1.5529 -1.3432 3.1704 4.9943 9.3420" area="5" targetId="ff37e998397b480ab5cd8b932f6f2557" name="Confession_Room" pathAuthoring="ff37e998397b480ab5cd8b932f6f2557_authoring.glb" pathOcclusion="ff37e998397b480ab5cd8b932f6f2557_occlusion.3dt" pathNavMesh="ff37e998397b480ab5cd8b932f6f2557_navmesh.glb" cloudTarget="false" />
+    </TargetSet>
+</QCARInfo>
