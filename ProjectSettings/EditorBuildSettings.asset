@@ -5,12 +5,21 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 0
-    path: Assets/Scenes/SampleScene.unity
-    guid: 55daccc09a3b69647bbab145b54a3ab3
   - enabled: 1
-    path: Assets/CONFESSION_ROOM_AR.unity
-    guid: efbbc911f3b0b57459e520b1c4584863
+    path: Assets/_Project/Scenes/Bootstrap.unity
+    guid: ca9d67cb710c1db4691f54c0aa35562a
+  - enabled: 1
+    path: Assets/_Project/Scenes/MainMenu.unity
+    guid: 43f0a13dcebd016418efd2288e7d63a1
+  - enabled: 1
+    path: Assets/_Project/Scenes/QRScanner.unity
+    guid: dda31e33c0eece140812b2b8dc1e29d3
+  - enabled: 1
+    path: Assets/QR.unity
+    guid: c19c9407d93f3fa4c8b3c313405eeed5
+  - enabled: 1
+    path: Assets/_Project/Scenes/Credits.unity
+    guid: 6e9f1ce3a81ab394787991cc2f8009b0
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 18e89ad3146267a4a87cac721d527752, type: 2}
     Unity.XR.WindowsMR.Settings: {fileID: 11400000, guid: dc5a169419fa04987b057f65238cf3ba, type: 2}

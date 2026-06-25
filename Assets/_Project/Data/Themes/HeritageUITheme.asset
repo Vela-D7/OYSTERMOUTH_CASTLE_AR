@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8f64dd24657fe04409d73b9e8f23f7ed, type: 3}
+  m_Name: HeritageUITheme
+  m_EditorClassIdentifier: 
+  medievalStone: {r: 0.43137255, g: 0.41568628, b: 0.37254903, a: 1}
+  warmLimestone: {r: 0.72156864, g: 0.6784314, b: 0.5764706, a: 1}
+  parchment: {r: 0.9490196, g: 0.90588236, b: 0.7882353, a: 1}
+  agedParchment: {r: 0.84705883, g: 0.78039217, b: 0.6156863, a: 1}
+  heritageGold: {r: 0.70980394, g: 0.5411765, b: 0.22745098, a: 1}
+  deepSlateText: {r: 0.14509805, g: 0.16470589, b: 0.17254902, a: 1}
+  mossAccent: {r: 0.3647059, g: 0.43529412, b: 0.30980393, a: 1}
+  chapelBlue: {r: 0.3019608, g: 0.43529412, b: 0.50980395, a: 1}
+  warning: {r: 0.5411765, g: 0.2901961, b: 0.23137255, a: 1}
+  headingFont: {fileID: 0}
+  bodyFont: {fileID: 0}
+  accessibilityFont: {fileID: 0}
+  buttonBackground: {fileID: 0}
+  iconButtonBackground: {fileID: 0}
+  panelBackground: {fileID: 0}
+  sliderBackground: {fileID: 0}
+  sliderFill: {fileID: 0}
+  sliderHandle: {fileID: 0}
+  minimumTouchSize: 56
+  phoneSafePadding: 24
+  tabletSafePadding: 40
